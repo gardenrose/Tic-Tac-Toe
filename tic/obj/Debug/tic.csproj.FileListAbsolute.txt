@@ -1,0 +1,10 @@
+C:\Users\IceBear\Desktop\practice\tic\tic\bin\Debug\tic.exe.config
+C:\Users\IceBear\Desktop\practice\tic\tic\bin\Debug\tic.exe
+C:\Users\IceBear\Desktop\practice\tic\tic\bin\Debug\tic.pdb
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.csprojAssemblyReference.cache
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.Form1.resources
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.Properties.Resources.resources
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.csproj.GenerateResource.cache
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.csproj.CoreCompileInputs.cache
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.exe
+C:\Users\IceBear\Desktop\practice\tic\tic\obj\Debug\tic.pdb
